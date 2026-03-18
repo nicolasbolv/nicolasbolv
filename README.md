@@ -1,4 +1,4 @@
-## Hi there! 
+## Hi there! <img src="https://media.tenor.com/7UYWUmH8IcYAAAAj/gog-the-alien-alien-dog.gif" alt="Dog" width ="100px" height ="100px">
 I am Nicolas, a Student from Austria! 
 Dont mind my profile :) 
 
