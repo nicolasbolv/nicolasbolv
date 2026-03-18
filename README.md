@@ -1,4 +1,6 @@
 ## Hi there! <img src="https://media.tenor.com/7UYWUmH8IcYAAAAj/gog-the-alien-alien-dog.gif" alt="Dog" width ="100px" height ="100px"> <img src="https://media1.tenor.com/m/j5BeDTX_mR4AAAAd/flight-flight-reacts.gif" alt="Dog" width ="130px" height ="130px"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasbolv&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasbolv" /> </p>
+
 I am Nicolas, a Student from Austria! 
 
 I am currently learning Python :) 
