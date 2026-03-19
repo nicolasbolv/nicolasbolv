@@ -6,7 +6,7 @@ I am Nicolas, a Student from Austria!
 I am currently learning Python :) 
 
 
- <img src="https://media.tenor.com/-d6IaHAmecMAAAAj/cornball-borncall.gif" alt="Cornball" width = "250px" height ="250px"> <img src="https://media1.tenor.com/m/0vc4WQ-pvQEAAAAd/counterstrike-cs.gif" alt= "CS" width="250px" height="250px"> <img src="https://media1.tenor.com/m/IXU97kOWRXoAAAAC/cortisol-level.gif" alt="Low" widht ="250px" height ="250px">
+ <img src="https://media.tenor.com/-d6IaHAmecMAAAAj/cornball-borncall.gif" alt="Cornball" width = "250px" height ="250px"> <img src="https://media1.tenor.com/m/0vc4WQ-pvQEAAAAd/counterstrike-cs.gif" alt= "CS" width="250px" height="250px"> <img src="https://media1.tenor.com/m/6yWbvRg9JV0AAAAC/cortisol-decrease.gif" alt="Low" widht ="250px" height ="250px">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasbolv&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasbolv" /> </p>
